@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+101,Laptop,Electronics,250000
+102,Phone,Electronics,70000
+103,Shirt,Clothing,1300
+104,Shoes,Clothing,8000
+105,TV,Electronics,45000
+106,Sofa,Furniture,80000
+107,Dining Table,Furniture,50000
+108,Mixer Grinder,Home Appliances,15000
+109,Refrigerator,Home Appliances,65000
+110,Microwave,Home Appliances,45000
